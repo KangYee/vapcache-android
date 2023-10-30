@@ -2,7 +2,7 @@
 
 ![$latestVersion](https://maven-badges.herokuapp.com/maven-central/io.github.kangyee/vapcache/badge.svg)
 
-VAP（Video Animation Player）缓存库，用于更方便的从网络获取资源并播放。
+VAP（Video Animation Player）缓存库，用于更方便的从网络获取资源。
 
 支持从 RawRes、Asset、File 以及 Url 中读取资源。
 

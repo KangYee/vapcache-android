@@ -12,6 +12,7 @@ appcompat = "1.6.1"
 material = "1.10.0"
 okio = "3.6.0"
 vap = "2.0.28"
+maven-publish = "0.25.3"
 
 [libraries]
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
@@ -37,6 +38,7 @@ vap = { group = "io.github.tencent", name = "vap", version.ref = "vap" }
 com-android-application = { id = "com.android.application", version.ref = "agp" }
 org-jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "org-jetbrains-kotlin-android" }
 com-android-library = { id = "com.android.library", version.ref = "agp" }
+maven-publish = { id = "com.vanniktech.maven.publish", version.ref = "maven-publish" }
 
 [bundles]
 
