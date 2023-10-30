@@ -6,7 +6,7 @@ VAP（Video Animation Player）缓存库，用于更方便的从网络获取资�
 
 支持从 RawRes、Asset、File 以及 Url 中读取资源。
 
-<img src="https://github.com/kangyee/vapcache/blob/main/preview.jpg" alt="preview.jpg" width="30%" />
+<img src="https://github.com/KangYee/vapcache-android/blob/main/preview.jpg" alt="preview.jpg" width="30%" />
 
 # 前言
 
