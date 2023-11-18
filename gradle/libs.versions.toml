@@ -12,6 +12,7 @@ appcompat = "1.6.1"
 material = "1.10.0"
 okio = "3.6.0"
 vap = "2.0.28"
+lottie = "6.1.0"
 maven-publish = "0.25.3"
 
 [libraries]
@@ -33,6 +34,7 @@ appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "a
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 okio = { group = "com.squareup.okio", name = "okio", version.ref = "okio" }
 vap = { group = "io.github.tencent", name = "vap", version.ref = "vap" }
+lottie = { group = "com.airbnb.android", name = "lottie", version.ref = "lottie" }
 
 [plugins]
 com-android-application = { id = "com.android.application", version.ref = "agp" }
